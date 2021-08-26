@@ -73,6 +73,12 @@ const app = {
             path: "./acess/mp3/5.mp3",
             image:"./acess/img/5.jpg"
         },
+         {
+            name: "Yêu nhan nửa ngày",
+            singer: "Phan Mạnh Quỳnh",
+            path: "./acess/mp3/5.mp3",
+            image:"./acess/img/5.jpg"
+        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
